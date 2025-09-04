@@ -1,7 +1,7 @@
 # Kart
 The first kart we are going to make is less powerful, and is built to get an idea and learn, so that the ultimate CBR Kart is much, much better.
 
-Budget : LKR150,000
+Budget : LKR100,000
 
 # Objective
 - Get it to move forward
@@ -32,5 +32,5 @@ We've decided to cheap out wherever we can while still providing more power comp
 ### Tyres
 - As karting tyres are expensive, we will have to resort to small scooter tyres or any other smaller & cheaper option that can reduce the performance & financial cost.
 
-# Current problem
+# Current problems
 - **Sourcing the engine**, proves to be difficult and likely the most expensive and time consuming part of building this kart, we have decided to check popular scrap yard areas in search of full ct 100 engine & other useful parts as they are very common and cheap.
