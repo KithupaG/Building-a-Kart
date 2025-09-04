@@ -7,12 +7,14 @@ Budget : LKR100,000
 - Get it to move forward
 - Be more powerful than a Bivel Kart
 
+# Specs
+
 - The kart is going to have a 100cc, single cylinder, 4 stroke engine, SOHC Valvetrian with a max stock power output of 8.08HP@7500RPM and 8.34Nm@5500RPM, a performance increases is to be expected with an ECU Remap + Full freeflow exhaust system.
 - The Frame/Chassis of the kart is going to stainless steel.
 - Tyres are sourced from scrapyards, wheelbarrows, scooters etc.
 - Gauges, Cables, Braking systems, Pedals, Seat, Harness, Steering rack, Chains & Sprokets, Axles, Bearings are all either sourced from scrapyards, or custom built, or bought to save weight and be light on our budget.
 
-# Parts & Materials
+## Parts & Materials
 We've decided to cheap out wherever we can while still providing more power compared to a Bivel Kart, what we've decided to use:
 
 ### Engine
