@@ -19,3 +19,6 @@ This is just a fun DIY project that will later be taken into competitive areas b
 - Kithupa Gajanayake
 - Nimuthu Paranawithana
 
+# You can contact us through email:
+- Kithupa Gajanayake : gkithupa@gmail.com (Frequently Checking)
+- Nimuthu Paranawithana : nimuthuwork@gmail.com
