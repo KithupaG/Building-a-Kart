@@ -36,3 +36,8 @@ We've decided to cheap out wherever we can while still providing more power comp
 
 # Current problems
 - **Sourcing the engine**, proves to be difficult and likely the most expensive and time consuming part of building this kart, we have decided to check popular scrap yard areas in search of full ct 100 engine & other useful parts as they are very common and cheap.
+
+# Day 4 - 9/5/2025
+- Switching to a Birel kart chassis instead of our own since our main goal is performance
+- Advantages from our before chassis include a faster kart, lighter kart, lower CG (Center of Gravity), Nimble and agile
+
